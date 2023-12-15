@@ -1,3 +1,3 @@
-# micrograd
+# makemore
 -----------
 This repository includes solutions to Andrej Karpathy's NN course 
